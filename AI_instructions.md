@@ -1,6 +1,6 @@
 ### Choosing instructions
 
-[click here to return to the guide](./setup_guide.md#4-choose-your-instructions)
+[click here to return to the guide](./README.md#4-choose-your-instructions)
 
 Picking time! I prepared two sets of instructions.
 
@@ -97,4 +97,4 @@ Pick a set and copy it to be pasted later into the settings. No worry, there's n
 
 <br>
 
-[click here to return to the guide](./setup_guide.md#4-choose-your-instructions)
+[click here to return to the guide](./README.md#4-choose-your-instructions)

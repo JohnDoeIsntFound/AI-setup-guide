@@ -32,7 +32,7 @@ Option 2: via the [desktop app](https://claude.com/download)
 
 ##### 4. Choose your instructions
 
-Choose & Copy your instructions [here](./instructions_selection_computer_redirection.md)
+Choose & Copy your instructions [here](./AI_instructions.md)
 
 then paste it into the instructions section
 
