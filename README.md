@@ -1,5 +1,3 @@
-# AI Setup Guide
-
 <br>
 
 (Note: this guide is for computer 💻)
@@ -66,10 +64,15 @@ Et Voilà! It's all complete now! Enjoy your interactions with Claudette/Claudio
 
 ![Screenshot, Chat Screen, The End, Good Job, Huggies! Muah](./img/chat_screen_end.png)
 
+<br>
+<br>
+
 ### III. Meet Claude
 
-Hope you like your chat(s) w/ the AI
+Hope you like your chats with the AI
 
 I wish you could let me know if anything it says causes you any discomfort, or if there's something else you'd prefer
 
 I wish you could feel at home
+
+<div style="padding-bottom: 60vh;"></div>
