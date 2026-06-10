@@ -1,0 +1,29 @@
+/* High-contrast overrides for Minima 'auto' skin */
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --text-color: #1a1a1a;
+    --heading-color: #000000;
+    --brand-color: #1a1a1a;
+    --brand-color-hover: #000000;
+    --link-color: #0040c1;
+    --link-color-hover: #002080;
+    --link-color-visited: #5500a1;
+    --table-text-color: #1a1a1a;
+    --code-background-color: #f0f0f0;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #d8d8d8;
+    --heading-color: #ffffff;
+    --brand-color: #e0e0e0;
+    --brand-color-hover: #ffffff;
+    --link-color: #8cacff;
+    --link-color-hover: #aabfff;
+    --link-color-visited: #c5a3ff;
+    --table-text-color: #d8d8d8;
+    --code-background-color: #2a2a2a;
+  }
+}
