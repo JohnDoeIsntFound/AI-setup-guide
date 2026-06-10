@@ -1,0 +1,6 @@
+# https://stackoverflow.com/a/78095155
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: auto
